@@ -49,7 +49,7 @@
     "foundry-release-git": "^2.1.2",
     "foundry-release-npm": "^2.1.1",
     "grunt": "^1.6.1",
-    "grunt-cli": "~0.1.13",
+    "grunt-cli": "^1.4.3",
     "grunt-contrib-clean": "^2.0.1",
     "mocha": "~10.2.0",
     "shell-quote": "~1.7.3"
